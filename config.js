@@ -1,8 +1,8 @@
 /**
-   * Create By Dika Ardnt.
-   * Recode By ArieTube
-   * Contact Me on wa.me/6285828357727
-   * subscribe : https://m.youtube.com/channel/UC0rPHvwr0sJtaccF8Mm1Xng
+   * Create By MC.
+   * Recode By MC
+   * Contact Me on wa.me/6281916020818
+   * subscribe : https://m.youtube.com/channel/UCEdRaRx10a88ZDvsl-T2Pvw
 */
 
 const fs = require('fs')
@@ -20,11 +20,11 @@ global.APIKeys = {
 
 // Configuration BOT
 
-global.owner = ['628116646665'] //Nomor lu
-global.premium = ['628116646665'] //Nomor lu
-global.packname = 'GabutBot-MD' //Nama bot lu utk wm stiker
-global.author = 'ShinySebastian' //Nama lu utk wm stiker
-global.sessionName = 'gabutbot' //Nama session
+global.owner = ['6281916020818'] //Nomor lu
+global.premium = ['6281916020818'] //Nomor lu
+global.packname = 'WAbot-MC' //Nama bot lu utk wm stiker
+global.author = 'Metal_Creations_Bali' //Nama lu utk wm stiker
+global.sessionName = 'WAbot-MC' //Nama session
 global.prefa = ['','!','.','🐦','🐤','🗿'] //Prefix bot serah lo mau ubah atau ga
 global.sp = '⭔'
 global.mess = {
